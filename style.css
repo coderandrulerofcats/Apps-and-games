@@ -1,0 +1,30 @@
+body{
+    text-align:center;}
+
+ #app {
+    background-color: blueviolet;
+
+}
+
+    .line {
+        height: 6px;
+        background-color:green;
+        width: 70px;
+        margin:8px auto;
+    }
+    
+ #chat {
+    background-color: rgb(220, 16, 16);
+
+}
+
+#games {
+    background-color: rgb(4, 133, 145);
+
+}
+img{
+
+    height:400px;
+    width:400px;
+}
+
